@@ -383,7 +383,6 @@
 		"W06000021":{"n":"Monmouthshire","lad19nmw":"Sir Fynwy","id":"W06000021","lon":-2.90280008,"lat":51.77830124,"q":2,"r":6},
 		"W06000022":{"n":"Newport","lad19nmw":"Casnewydd","id":"W06000022","lon":-2.89769006,"lat":51.58229828,"q":0,"r":3},
 		"W06000023":{"n":"Powys","lad19nmw":"Powys","id":"W06000023","lon":-3.43532991,"lat":52.34859848,"q":1,"r":7},
-		,
                 "I00000001":{"n":"Donegal", "lad19nmw":"Donegal", "id":"I00000001". "lon": , "lat": , "q":-7, "r":17},
                 "I00000002":{"n":"Sligo", "lad19nmw":"Sligo", "id":"I00000002". "lon": , "lat": , "q":-7, "r":16},
                 "I00000003":{"n":"Mayo", "lad19nmw":"Mayo", "id":"I00000003". "lon": , "lat": , "q":-8, "r":15},
